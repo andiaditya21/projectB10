@@ -376,6 +376,7 @@ figcaption a {
 }
 
 /* NYOBA DULU*/
+/*code mas che
 .portfolio{
 	display: table;
 	width: 100%;
@@ -398,7 +399,8 @@ figcaption a {
 }
 .portfolio .box img:hover{
 	opacity: .8;
-}
+}*/
+
 .footer-logo {
     width: 100%;
     height: 40px;
